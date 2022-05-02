@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+اساسيات ترماكس 
+1-$ pkg install git
+2-$ 2-$ git clone https://github.com/pro-root/Fix-Termux
+3-$ ls
+4-$ cd Fix-Termux
+5-$ ls
+6-$ chmod +xÂ  Fix-Termux.sh
+7-$ bash Fix-Termux.sh
